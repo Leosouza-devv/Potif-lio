@@ -1,8 +1,0 @@
-*ESTRUTURA DE ORGANIZAÇÃO DA PASTA FRONT-END*
-
-styles  → visual  
-scripts → lógica  
-pages   → conteúdo  
-assets  → recursos 
-
----------------------------------------------------------------------------------------------------------------------

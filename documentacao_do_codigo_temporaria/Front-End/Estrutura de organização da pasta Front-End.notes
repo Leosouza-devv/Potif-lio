@@ -1,0 +1,15 @@
+*ESTRUTURA DE ORGANIZAÇÃO DA PASTA FRONT-END*
+--> A estrutura de organização da pasta Front-End é composta por pastas específicas para cada função dentro do desenvolvimento da interface do usuário. Cada pasta tem um propósito definido, facilitando a manutenção e a escalabilidade do projeto.
+
+---------------------------------------------------------------------------------------------------------------------
+
+*styles* → Esta pasta é responsável por armazenar os arquivos de estilo do projeto. Os arquivos aqui contêm as regras de CSS que definem a aparência visual da aplicação, incluindo cores, fontes, layouts e outros aspectos relacionados ao design.
+
+*scripts* → Esta pasta é dedicada aos arquivos de JavaScript que contêm a lógica do aplicativo. Os arquivos aqui implementam as funcionalidades interativas da aplicação, manipulando eventos, realizando chamadas a APIs e controlando o comportamento do usuário.
+
+*pages* → Esta pasta é destinada a armazenar os arquivos de conteúdo da aplicação. Os arquivos aqui contêm o HTML ou JSX que define a estrutura das páginas do aplicativo, organizando o conteúdo de forma clara e acessível.
+
+*assets* → Esta pasta é responsável por armazenar os recursos utilizados na aplicação, como imagens, ícones, fontes e outros arquivos estáticos. Os arquivos aqui são utilizados para melhorar a aparência visual e a experiência do usuário.
+----------------------------------------------------------------------------------------------------------------------
+Essa estrutura organizada permite uma melhor separação de responsabilidades, facilitando a manutenção do código e a colaboração entre os membros da equipe. Cada pasta tem um papel claro, o que contribui para a eficiência no desenvolvimento e na resolução de problemas.
+

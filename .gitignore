@@ -1,0 +1,58 @@
+
+#pasta de documentação - não deve ser versionada, apenas para consulta local
+documentação_do_codigo_temporaria/Back-End/Estrutura de organização da pasta Back-End.notes
+documentação_do_codigo_temporaria/Front-End/Estrutura de organização da pasta Front-End.notes
+
+# Dependências
+node_modules/
+
+# Build / produção
+dist/
+build/
+.out/
+.next/
+.vercel/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Cache
+.cache/
+.parcel-cache/
+.vite/
+.eslintcache
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testes
+coverage/
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+
+# Uploads locais (se houver)
+uploads/
+
+# Arquivos de configuração sensíveis
+*.pem
+*.key
