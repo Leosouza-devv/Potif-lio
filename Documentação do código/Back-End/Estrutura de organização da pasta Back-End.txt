@@ -1,0 +1,9 @@
+*ESTRUTURA DE ORGANIZAÇÃO DAS PASTAS*
+
+controllers → recebe requisição
+services → processa regra
+routes → define endpoints
+middlewares → segurança/autorização
+database/prisma → acesso ao banco
+
+---------------------------------------------------------------------------------------------------------------------

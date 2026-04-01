@@ -1,0 +1,28 @@
+{
+  "name": "tree-bio",
+  "version": "1.0.0",
+  "description": "Tree bio for portfolio links",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leosouza-devv/Tree-bio.git"
+  },
+  "keywords": [
+    "tree",
+    "bio",
+    "portfolio",
+    "links"
+  ],
+  "author": "Leonardo S. Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leosouza-devv/Tree-bio/issues"
+  },
+  "homepage": "https://github.com/Leosouza-devv/Tree-bio#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
