@@ -1,7 +1,7 @@
 
 #pasta de documentação - não deve ser versionada, apenas para consulta local
-documentacao_do_codigo_temporaria/Back-End/Estrutura de organização da pasta Back-End.notes
-documentacao_do_codigo_temporaria/Front-End/Estrutura de organização da pasta Front-End.notes
+documentacao_do_codigo_temporaria/Back-End/
+documentacao_do_codigo_temporaria/Front-End/
 
 # Dependências
 node_modules/
