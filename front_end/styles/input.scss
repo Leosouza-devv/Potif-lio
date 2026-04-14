@@ -1,14 +1,19 @@
 
 //* ==(INICIO) IMPORTAÇÃO DAS PARTIALS == *// 
 
-// Folder -> componentes //
-@import 'componentes/Reset_style';
+/* --  Folder -> (/base) -- */
+@import 'base/Reset_style';
 
-// Folder -> layouts  //
+// Folder -> (/abstracts) //
 
-// Folder -> pages //
 
-// Folder -> vendor //
+/* -- Folder -> (../shared/styles/layouts) -- */
+
+@import '../shared/styles/layouts/header';
+@import '../shared/styles/layouts/footer';
+
+
+// Folder -> (../shared/styles/componentes) //
+
 
 //* ==(FIM) IMPORTAÇÃO DAS PARTIALS == *//
-
