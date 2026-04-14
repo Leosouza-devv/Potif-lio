@@ -1,7 +1,6 @@
 
 #pasta de documentação - não deve ser versionada, apenas para consulta local
-documentacao_do_codigo_temporaria/Back-End/
-documentacao_do_codigo_temporaria/Front-End/
+documentacao_do_codigo_temporaria/
 
 # Dependências
 node_modules/
